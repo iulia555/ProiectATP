@@ -15,7 +15,6 @@
 •	un raport care să conțină toate articolele din fișierul binar (raport în fișier text) <br />
 •	un raport parțial în funcție de 1/2 criterii (raport în fișier text) <br />
 
-Exemplu de temă: Realizați aplicația care să gestioneze activitățile desfășurate într-o bibliotecă.
-NOTĂ: 
+*NOTĂ:*
 + Fișierul principal va fi un fișier binar organizat secvențial sau relativ (a se vedea suportul de curs). În funcție de tipul fișierului ales, se vor realiza operațiile corespunzătoare pe fișiere binare (în limbajul C). 
 +	Numărul minim de câmpuri din structură trebuie să fie 5, iar acestea trebuie să fie în legătură strânsă cu tema economică aleasă. De asemenea, trebuie să folosiți cel puțin o structură imbricată. 
