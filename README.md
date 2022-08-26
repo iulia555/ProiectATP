@@ -1,12 +1,12 @@
 # GESTIUNEA UNUI MAGAZIN ONLINE CU PRODUSE COSMETICE PENTRU ÎNGRIJIREA TENULUI - PROIECT ALGORITMI ȘI TEHNICI DE PROGRAMARE
 
-În cadrul disciplinei Algoritmi și tehnici de programare am realizat individual un proiect care a avut ca scop abordarea unei teme economice, respectând anumite cerințe obligatorii. Proiectul a fost notat cu punctajul maxim.
+În cadrul disciplinei **Algoritmi și tehnici de programare** am realizat individual un proiect care a avut ca scop abordarea unei teme economice, respectând anumite cerințe obligatorii. Proiectul a fost notat cu punctajul maxim.
 
 *TEHNOLOGIILE UTILIZATE:* <br />
 ֍ Limbajul de programare – C <br />
 ֍ Mediul de dezvoltare – Visual Studio <br />
 
-*CERINȚE:* <br />
+*CERINȚELE PROIECTULUI:* <br />
 ֍	crearea fișierului binar (organizat secvențial sau relativ) <br />
 ֍	adăugarea unui articol în fișierul binar creat la punctul anterior <br />
 ֍	actualizarea (modificarea)  în fișierul binar <br />
